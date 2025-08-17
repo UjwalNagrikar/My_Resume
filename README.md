@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer focused on buildi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalNagrikar&layout=compact&theme=radical)
 
-**📈 183 contributions in the last year** - Consistently building and learning!
+**📈 207 contributions in the last year** - Consistently building and learning!
 
 ## 🎯 Current Focus
 
