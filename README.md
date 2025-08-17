@@ -71,9 +71,10 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer focused on buildi
 
 ## 📊 GitHub Stats
 
-![Ujwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=UjwalNagrikar&show_icons=true&theme=radical)
+![Ujwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=UjwalNagrikar&show_icons=true&theme=radical&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalNagrikar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalNagrikar&layout=compact&theme=radical&cache_seconds=3600)
+
 
 ## 🎯 Current Focus
 
